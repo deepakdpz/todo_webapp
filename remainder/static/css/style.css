@@ -1,0 +1,21 @@
+.port {
+    height: 100vh;
+}
+
+.grad{
+
+background: rgb(238, 174, 202);
+background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+
+}
+
+.new{
+background-color: #8BC6EC;
+background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+
+}
+
+.middle{
+    text-align: center;
+}
+
